@@ -1,0 +1,6 @@
+# rust cargo build thingy
+target/
+**/target/
+
+# macOS system files
+.DS_Store
